@@ -15,7 +15,7 @@ Currently building my **Physicist's Toolbox** with:
 - Git/GitHub
 
 ##  Current Project
-Building a collection of physics tools at: [python-physics-toolbox-YourName](link-here)
+Building a collection of physics tools at: [python-physics-toolbox-ChhimiDorji](link-here)
 
 ##  Reach me
 [e-mail:ceedorji232@gmail.com]
