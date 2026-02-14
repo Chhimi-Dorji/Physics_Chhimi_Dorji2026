@@ -1,5 +1,5 @@
 # Physics_Chhimi_Dorji2026
-# Hi, I'm [Chhimi Dorji]!
+# Hi, I am Chhimi Dorji from Bhutan.
 
 **Physics student** learning scientific Python to analyze experimental data
 
