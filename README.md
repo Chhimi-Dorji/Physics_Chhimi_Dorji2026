@@ -1,7 +1,9 @@
 # Physics_Chhimi_Dorji2026
-# Hi, I am Chhimi Dorji from Bhutan.
+# Hi, I am Chhimi Dorji from Bhutan. I am a M.Sc Physics student learning scientific Python in LPU, India.
 
-**Physics student** learning scientific Python to analyze experimental data
+##  About Me
+- Interested in Plasma Physics and Computational Physics
+- Learning Python for research and data analysis
 
 Currently building my **Physicist's Toolbox** with:
 - Python for data analysis
@@ -9,13 +11,14 @@ Currently building my **Physicist's Toolbox** with:
 - Research automation
 
 ##  Skills
-- Python (Pandas, NumPy - coming soon!)
-- Jupyter Notebooks
-- Data visualization
-- Git/GitHub
+- Python
+- Jupyter Notebook
+- GitHub
+- Basic Data Analysis
 
 ##  Current Project
-Building a collection of physics tools at: [python-physics-toolbox-ChhimiDorji](link-here)
+Scientific Python Starter Quest  
+(See my python-physics-toolbox repository)
 
 ##  Reach me
 [e-mail:ceedorji232@gmail.com]
