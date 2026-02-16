@@ -1,4 +1,3 @@
-# Physics_Chhimi_Dorji2026
 # Hi, I am Chhimi Dorji from Bhutan. I am a M.Sc Physics student learning scientific Python in LPU, India.
 
 ##  About Me
